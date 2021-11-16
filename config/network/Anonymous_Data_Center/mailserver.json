@@ -1,8 +1,14 @@
 [
     {
-        "from": "admin",
+        "from": "admineq :D",
         "to": ["8A73B5", "user"],
-        "title": "Maintenance in all servers",
-        "body": "This message is for all divisions of the bureau.  Starting today, the servers may suffer instability due to the latest maintenance mesures.    admin"
+        "title": "Eluwina",
+        "body": "Siema właśnie umrzesz joł spier papier B)"
+    }
+    {
+        "from": "kebab",
+        "to": ["8A73B5", "user"],
+        "title": "kebaba",
+        "body": "kjebaba"
     }
 ]
