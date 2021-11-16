@@ -1,13 +1,13 @@
 {
-    "year": "2377",
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "year": "2016",
+    "serverName": "Zastrzeżony strumień",
+    "serverAddress": "Anonymous_Data_Center",
+    "iconName": "delta.jpg",
+    "terminalID": "D3LT4",
     "defaultUser": {
-        "userId": "user",
+        "userId": "agent",
         "password": "",
-        "userName": "anonymous"
+        "userName": "agent"
     },
     "randomSeed": true,
     
