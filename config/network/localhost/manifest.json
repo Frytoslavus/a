@@ -1,13 +1,13 @@
 {
     "year": "2016",
-    "serverAddress": "localhost",
+    "serverAddress": "Anonymous_Data_Center",
     "serverName": "Zastrzeżony strumień",
     "iconName": "delta.png",
     "terminalID": "D3LT4",
     "defaultUser": {
         "userId": "agent",
         "password": "",
-        "userName": "anonymous"
+        "userName": "agent"
     },
     "randomSeed": true,
     
