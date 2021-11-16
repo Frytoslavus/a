@@ -1,6 +1,7 @@
 {
     "year": "2016",
     "serverName": "Zastrzeżony strumień",
+    "serverAddress": "Anonymous_Data_Center",
     "iconName": "delta.jpg",
     "terminalID": "D3LT4",
     "defaultUser": {
