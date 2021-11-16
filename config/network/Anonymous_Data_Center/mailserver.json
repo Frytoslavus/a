@@ -10,5 +10,11 @@
         "to": ["asd", "user"],
         "title": "kebaba",
         "body": "kjebaba <img src='delta.jpg'>"
+    },
+    {
+        "from": "admin",
+        "to": ["Revolution"],
+        "title": "Witaj w Delta Green!",
+        "body": "Witaj agencie w elitarnej jednostce Delta Green. Rozsiądź się wygodnie w swoim siedzeniu, zapoznaj się z biurem, a także z innymi agentami. W zależności od twojej pełniącej funkcji czekaj na przydział. Zapoznaj się z innymi dokumentami na twoim mailu. Miejmy nadzieję, że dzięki twojej służbie nieubłagalna zagłada oddali się chociaż o parę dni."
     }
 ]
