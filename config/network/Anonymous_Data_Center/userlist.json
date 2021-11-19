@@ -8,5 +8,10 @@
         "userId": "Revolution",
         "password": "albert",
         "userName": "Margaret Thatcher"
+    },
+    {
+        "userId": "Archibald",
+        "password": "Ojciec Kto?",
+        "userName": "A. 'Ojciec' Fandrick"
     }
 ]
